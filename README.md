@@ -1,7 +1,7 @@
 # Hi there 👋, Im Luis Fernando
 
 ## About Me
-- 🖥️ I am a Developer and Data Scientist student.
+- 🖥️ I am a Developer and student.
 - 📖 Second-year undergraduate Data Science student.
 - 👯 I'm looking to collaborate on open source projects.
 - 📫 How to reach me: luisfernando@cancella.com.br
